@@ -3,7 +3,7 @@
 Visualizar Projeto: [Clique aqui](https://github.com)
 <br>
 
-## Layoutdo Projeto
+## Layout do Projeto
 ![](preview/Prewien.png)
 
 
