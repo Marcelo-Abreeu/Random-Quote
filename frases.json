@@ -235,7 +235,7 @@
 },
 {
     "id": 47,
-    "quote": "Quando você pára de perseguir as coisas erradas, você dá as coisas certas a chance de pegar você.",
+    "quote": "Quando você para de perseguir as coisas erradas, você dá as coisas certas a chance de pegar você.",
     "author": "Lolly Daskal"
 },
 {
@@ -416,7 +416,7 @@
 {
     "id": 83,
     "quote": "O ponto de partida de toda conquista é o desejo.",
-    "author": "Napolean Hill"
+    "author": "Napoleon Hill"
 },
 {
     "id": 84,
@@ -1420,8 +1420,8 @@
 },
 {
     "id": 284,
-    "quote": "Coragem é manter a classe sob pressão.",
-    "author": "John Kennedy"
+    "quote": "Eu estou sempre fazendo aquilo que não sou capaz, numa tentativa de aprender como fazê-lo",
+    "author": "Vincent van Gogh"
 },
 {
     "id": 285,
@@ -1435,12 +1435,72 @@
 },
 {
     "id": 287,
-    "quote": "Coragem... pequeno soldado do imenso exército. Os teus livros são as tuas armas, a tua classe é a tua esquadra, o campo de batalha é a terra inteira, e a vitória é a civilização humana.",
-    "author": "Edmondo Amicis"
+    "quote": "Algumas pessoas não gostam de mudança, mas você precisa abraça-la se a alternativa for o desastre .",
+    "author": "Elon Musk"
 },
 {
     "id": 288,
     "quote": "Muitos talentos se perdem por falta de um pouco de coragem.",
     "author": "Sydney Smith"
+},
+{
+    "id": 289,
+    "quote": "Se escutar uma voz dentro de você dizendo 'Você não é um pintor', então pinte sem parar, de todos os modos possíveis, e aquela voz será silenciada.",
+    "author": "Vincent van Gogh"
+},
+{
+    "id": 290,
+    "quote": "Coragem é manter a classe sob pressão.",
+    "author": "John Kennedy"
+},
+{
+    "id": 291,
+    "quote": "Não tenho certeza de nada, mas a visão das estrelas me faz sonhar.",
+    "author": "Vincent van Gogh"
+},
+{
+    "id": 292,
+    "quote": "Se algo é importante o suficiente, você deve tentar, mesmo se o resultado provável for o fracasso.",
+    "author": "Elon Musk"
+},
+{
+    "id": 293,
+    "quote": "Reclamar não é uma estratégia. Temos que lidar com o mundo tal como ele é, e não tal como gostaríamos que ele fosse.",
+    "author": "Jeff Bezos"
+},
+{
+    "id": 294,
+    "quote": "É melhor ser temido do que amado",
+    "author": "Nicolau Maquiavel"
+},
+{
+    "id": 295,
+    "quote": "Infeliz é o homem que vive de aparências, pois só é visto por infelizes como ele.",
+    "author": "Desconhecido"
+},
+{
+    "id": 296,
+    "quote": "Aprenda a ser indiferente ao que não faz diferença.",
+    "author": "Marco Aurélio"
+},
+{
+    "id": 297,
+    "quote": "A arte serve para consolar aqueles que foram quebrados pela vida.",
+    "author": "Vincent van Gogh"
+},
+{
+    "id": 298,
+    "quote": "Eles riem de mim por eu ser diferene, e eu rio deles por serem todos iguais.",
+    "author": "Jonathan Davis"
+},
+{
+    "id": 299,
+    "quote": "Não há lugar para a sabedoria onde não há paciência.",
+    "author": "Desconhecido"
+},
+{
+    "id": 300,
+    "quote": "Não basta conquistar a sabedoria é preciso usá-la.",
+    "author": "cícero"
 }
 ]
