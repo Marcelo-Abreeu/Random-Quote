@@ -1,6 +1,6 @@
 # Gerador de Frases
 
-Visualizar Projeto: [Clique aqui](https://abreu-marcelo.github.io/Random-Quote/)
+Visualizar Projeto: [Clique aqui](https://Marcelo-Abreeu.github.io/Random-Quote/)
 <br>
 
 ## Layout do Projeto
