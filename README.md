@@ -10,7 +10,7 @@ Visualizar Projeto: [Clique aqui](https://Marcelo-Abreeu.github.io/Random-Quote/
 ## Sobre o Projeto
 
 Neste projeto utilizei uma API com arquivos .JSON. 
-As Frases são puxadas de forma dinamica e mostradas ao usúario.
+As Frases são puxadas de forma dinâmica e mostradas ao usuário.
 O mesmo retorna frases de forma aleatória com citações de grandes filósofos, empresários e jogadores de futebol.
 <br>
 
