@@ -1,13 +1,16 @@
-# Gerador de Frases
+<h1 align="center">
+  💬 Random Quote 
+</h1> 
 
-Visualizar Projeto: [Clique aqui](https://Marcelo-Abreeu.github.io/Random-Quote/)
+![](preview/Prewien.png)
+<br>
 <br>
 
-## 👀 Layout do Projeto
-![](preview/Prewien.png)
+Visualizar Projeto: [Clique aqui](https://Marcelo-Abreeu.github.io/Random-Quote/)
 
 
-## 📝 Sobre o Projeto
+
+## 📝 Descrição
 
 Neste projeto utilizei uma API com arquivos .JSON. 
 As Frases são puxadas de forma dinâmica e mostradas ao usuário.
