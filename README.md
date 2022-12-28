@@ -1,5 +1,5 @@
 <h1 align="center">
-  Random Quote 💬
+  Gerador de Frases
 </h1> 
 
 ![](preview/Prewien.png)
