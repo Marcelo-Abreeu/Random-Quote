@@ -1,5 +1,5 @@
 <h1 align="center">
-  💬 Random Quote 
+  Random Quote 💬
 </h1> 
 
 ![](preview/Prewien.png)
