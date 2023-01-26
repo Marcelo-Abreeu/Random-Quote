@@ -36,7 +36,6 @@ function init(SeletorFrase, seletorAutor, seletorBtn) {
         activeApp();
     }
 
-
 }
 // Chamando a função geral para inicar o codigo
 init('.frase', '.autor', '.btn-novo');

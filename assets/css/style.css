@@ -6,15 +6,29 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     color: rgb(88, 83, 83);
+    transition: .5s linear;
 }
 
 body{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        min-height: 100vh;
-        background: #fafafa;
-    }
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #fafafa;
+}
+
+input[type="checkbox"]{
+    display: none;
+}
+
+.fas{
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+i.fas.fa-moon {
+    display: none;
+}
 
 .wrapper{
     width: 400px;
@@ -105,10 +119,55 @@ footer a:hover{
     text-decoration: underline;
 }
 
+/*================== DARK THEME ====================*/
+
+.darkmod{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+.dark{
+    color: white;
+    background: #202020;
+}
+
+.dark i.fas.fa-sun{
+    display: none;
+}
+
+.dark i.fas.fa-moon{
+    display: block;
+}
+
+.dark .wrapper{
+    background: #191919;
+    color: #fff;
+}
+
+.dark p{
+    color: #fff;
+}
+
+.dark i{
+    color: #fff;
+}
+
+.dark header{
+    color: #fff;
+}
+
+/*============= RESPONSIVO MOBILE ===================*/
+
+
 @media screen and (max-width: 430px) {
     .wrapper{
         background: #fafafa;
         box-shadow: none;
         border-radius: 0px;
+    }
+
+    .dark{
+        background: #191919;
     }
 }
