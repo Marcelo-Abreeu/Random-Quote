@@ -2,7 +2,7 @@
  📨 Random Quote
 </h1> 
 
-![](preview/Prewien.png)
+![](assets/img/Prewien.png)
 <br>
 <br>
 
